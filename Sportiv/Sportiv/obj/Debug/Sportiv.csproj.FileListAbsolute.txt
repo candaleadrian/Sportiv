@@ -1,0 +1,6 @@
+D:\Programare\Probleme\Sportiv\Sportiv\Sportiv\Sportiv\bin\Debug\Sportiv.dll
+D:\Programare\Probleme\Sportiv\Sportiv\Sportiv\Sportiv\bin\Debug\Sportiv.pdb
+D:\Programare\Probleme\Sportiv\Sportiv\Sportiv\Sportiv\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programare\Probleme\Sportiv\Sportiv\Sportiv\Sportiv\obj\Debug\Sportiv.csprojResolveAssemblyReference.cache
+D:\Programare\Probleme\Sportiv\Sportiv\Sportiv\Sportiv\obj\Debug\Sportiv.dll
+D:\Programare\Probleme\Sportiv\Sportiv\Sportiv\Sportiv\obj\Debug\Sportiv.pdb
