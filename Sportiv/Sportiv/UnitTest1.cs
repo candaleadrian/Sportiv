@@ -9,17 +9,26 @@ namespace Sportiv
         [TestMethod]
         public void Repetari1()
         {
-            Assert.AreEqual(4,repetari(1));
+            Assert.AreEqual(1,repetari(1));
+        }
+        [TestMethod]
+        public void Repetari2()
+        {
+            Assert.AreEqual(1, repetari(2));
+        }
+        [TestMethod]
+        public void Repetari3()
+        {
+            Assert.AreEqual(6,repetari(3));
         }
         int repetari(int n)
         {
-            for (int i=0; i<n; i++)
+            int counter = 0;
+            for (int i=1; i==n; i++)
             {
-
+                counter += i;
             }
-            return 4;
+            return counter;
         }
-
-
     }
 }
